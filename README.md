@@ -14,3 +14,5 @@ is function that do the same thing that script detect_circles.com, the input arg
 ### sensitivity: increase the detection of more circular objects (0-1)
 
 there are some example images for the analysis 
+
+esto es un ensayis
