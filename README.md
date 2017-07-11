@@ -1,3 +1,13 @@
-esnayo1.m es un script que mide los halos de la imagen E. Coli.jpeg,
-halos.m es la funcion correspondiente a ese script y fuciona con 4 argumentos de entrada :(Imagen,resize,umbral,sensitivity)
-# vision_matlab
+## detect_circles.m 
+is a script to measure the halos in antibiograms assays the the image to analize must be provided 
+from the code line.
+
+## fdetect_circles.m 
+is function that does the same thing that script detect_circles.com, the input arguments are 
+
+Imagen: path to the image to be analyzed
+resize: compress the original imagen (0-1)
+umbral: threshold for binary transformation of the image  (0-1)
+sensitivity: increase the detection of more circular objects (0-1)
+
+there are some example images for the analysis 
