@@ -11,7 +11,7 @@
 is a script to measure the halos in antibiograms assays the image to analize must be provided 
 from the code line.
 
-## fdetect_circles.m 
+### fdetect_circles.m 
 is the function version of detect_circles.m
 the input arguments are: 
 
