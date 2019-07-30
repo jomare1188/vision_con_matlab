@@ -1,3 +1,12 @@
+### Diameter vs threshold
+![Alt Text](https://media.giphy.com/media/3o6ZsVx0L1c4MzkTzq/giphy.gif)
+
+### Diameter vs threshold 2
+![Alt Text](https://media.giphy.com/media/3o6ZsSr8wUXDpRlUys/giphy.gif)
+ 
+### Halo area extracted in black and wihte
+![Alt Text](https://media.giphy.com/media/3o6Zt1zosRlyZzZvws/giphy.gif)
+
 ## detect_circles.m 
 is a script to measure the halos in antibiograms assays the image to analize must be provided 
 from the code line.
@@ -15,14 +24,4 @@ the input arguments are:
 ### sensitivity: increase the sensitivity to detect more strictly circular objects (0-1)
 
 there are some example images for the analysis 
-
-### Diameter vs threshold
-![Alt Text](https://media.giphy.com/media/3o6ZsVx0L1c4MzkTzq/giphy.gif)
-
-### Diameter vs threshold 2
-![Alt Text](https://media.giphy.com/media/3o6ZsSr8wUXDpRlUys/giphy.gif)
- 
-### Halo area extracted in black and wihte
-![Alt Text](https://media.giphy.com/media/3o6Zt1zosRlyZzZvws/giphy.gif)
-
 
